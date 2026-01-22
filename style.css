@@ -1,16 +1,19 @@
-/* Estilos para melhorar a aparência da calculadora */
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     background-color: #f0f0f0;
-    margin: 0;
+    height: 100vh;
+    width: 100vw;
     padding: 0;
+    margin: 0;
+    align-items: center;
+    display: flex;
 }
 
 .calculator {
     margin: 0 auto;
-    width: 400px; /* Aumentei o tamanho do contêiner principal */
-    padding: 30px; /* Aumentei o padding */
+    width: 400px; 
+    padding: 30px; 
     border: 2px solid #333;
     border-radius: 10px;
     background-color: #fff;
