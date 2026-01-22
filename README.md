@@ -2,20 +2,20 @@
 
 Projeto desenvolvido com o objetivo de praticar lógica de programação e manipulação do DOM utilizando JavaScript.
 
-##Tecnologias utilizadas
+# Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript
 
-##Funcionalidades
+## Funcionalidades
 - Operações básicas (soma, subtração, multiplicação e divisão)
 - Interface simples e intuitiva
 - Interação com o usuário via botões
 
-##Aprendizados
+## Aprendizados
 - Manipulação do DOM
 - Eventos em JavaScript
 - Organização de código
 
   
-![Imagem da página da calculadora](Calculadora Simples.png)
+![Prewiew](CalculadoraSimples.png)
